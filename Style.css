@@ -1,0 +1,44 @@
+.bg-primary {background: rgba(40,240,19,0.5) !important;}
+
+.filter-color {background: linear-gradient(45deg, rgba(171,244,0,0.3), rgba(214,250,39,0.4));}
+
+.fa {background: green;}
+
+body {cursor: default;}
+
+.logo{height: 70px;
+		width: 50px;
+	}
+
+.logo2{height: 100px;
+		width: 200px;}
+
+.content-center {display:flex
+				flex-wrap:wrap;
+				font-family:"Bree Serif";
+	;}
+
+.title {text-align: center;}
+
+.container-fluid {margin-top: 0px !important;
+				padding-right: 50px;
+				padding-left: 50px;
+				background: rgba(40,240,19,0.6);}
+
+.toweliegif {margin-top:75px;}
+
+.stan {margin-top:75px;}
+
+.sec2 {padding-top: 50px;}
+
+.song {color:darkblue;}
+
+.farmer {float:right;
+		margin-bottom: 30px;}
+
+.btn-success {background: darkblue;
+			height: 60px;
+			font-size: 20px;
+			margin-bottom: 40px;}
+
+.section {padding-bottom: 0px !important;}
